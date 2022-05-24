@@ -2,6 +2,7 @@
 
 # ALGORITMO
 
+inicio
   enquanto teste = true faca
 
   escreva "Você foi aprovado exame psicotecnico"
@@ -20,8 +21,7 @@
     escreva "VOCÊ NÃO PODE OBTER A HABILITAÇÃO"
   fimse
 fimenquanto
-
-
+fim
 
 # FLUXOGRAMA
 
